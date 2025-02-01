@@ -1,0 +1,7 @@
+{
+  "name": "RegisterForm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
